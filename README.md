@@ -7,7 +7,7 @@
 
 - 💬 You can ask me about **Rasa any day and also frontend**
 
-- ⚡ Fun fact **I like logic, analysis and aslo art**
+- ⚡ Fun fact : **I like logic, analysis and also art :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
