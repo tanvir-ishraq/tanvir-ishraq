@@ -1,7 +1,8 @@
-<h1 align="center" style="font-family:Georgia">Hi 👋, I'm Tanvir Ishraq Khan</h1>
+<h1 align="center">Hi 👋, I'm Tanvir Ishraq Khan</h1>
+ <!-- style="font-family:Georgia" -->
 <h3 align="center">I am Interested in web application and machine learning :)</h3>
 
-- 🔭 I’m currently working on **bots with Rasa Framework**
+- 🔭 I’m currently working on **bots with Rasa Framework and web development in python**
 
 - 🌱 I’m currently learning **web application development besides machine learning**
 
