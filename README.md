@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanvir Ishraq Khan</h1>
+<h1 align="center" style="font-family:georgia">Hi 👋, I'm Tanvir Ishraq Khan</h1>
 <h3 align="center">I am Interested in web application and machine learning :)</h3>
 
 - 🔭 I’m currently working on **bots with Rasa Framework**
