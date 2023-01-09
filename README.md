@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **bots with Rasa Framework and web development in python**
 
-- 🌱 I’m currently learning **web application development besides machine learning**
+- 🌱 I’m currently learning **more web application development besides machine learning**
 
 - 💬 You can ask me about **Rasa any day and also frontend**
 
