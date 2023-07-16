@@ -2,11 +2,11 @@
  <!-- style="font-family:Georgia" -->
 <h3 align="center">I work with web application, machine learning and data 👋,</h3>
 
-- 🔭 I’m working on **Django, Data Science bots with Rasa Framework and web development in python**
+- 🔭 I’m working on **Django, Data Science, Machine learning, Rasa deep learning NLP bots and web development in python**
 
-- 🌱 I’m currently learning **more web application development besides machine learning**
+- 🌱 I’m currently fonused on **deep learning, data besides web application development**
 
-- 💬 You can ask me about **Rasa any day and frontend and python web framework**
+- 💬 You can ask me about **machine learning, data science, python, SQL, JS Rasa NLP any day and python web frameworks**
 
 - ⚡ Fun fact : **I like logic, analysis and also art :)**
 
