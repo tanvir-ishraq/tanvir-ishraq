@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on **Django, Data Science, Machine learning, Rasa deep learning NLP bots and web development in python**
 
-- 🌱 I’m currently fonused on **deep learning, data besides web application development**
+- 🌱 I’m currently focused on **deep learning, data besides web application development**
 
 - 💬 You can ask me about **machine learning, data science, python, SQL, JS Rasa NLP any day and python web frameworks**
 
