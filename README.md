@@ -32,13 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-ishraq&show_icons=true&locale=en&layout=compact" alt="tanvir-ishraq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-ishraq&show_icons=true&locale=en" alt="tanvir-ishraq" /></p>
-
 
 <!--
-**tanvir-ishraq/tanvir-ishraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**tanvir-ishraq/tanvir-ishraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on  GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
