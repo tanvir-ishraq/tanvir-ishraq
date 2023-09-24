@@ -1,6 +1,6 @@
 <h1 align="center">Hello there :) I'm Tanvir Ishraq Khan</h1>
  <!-- style="font-family:Georgia" -->
-<h3 align="center">I work with web application, machine learning and data 👋,</h3>
+<h3 align="center">I work with web application, machine learning and data science 👋,</h3>
 
 - 🔭 I’m working on **Django, Data Science, Machine learning, Rasa deep learning NLP bots and web development in python**
 
