@@ -2,7 +2,7 @@
  <!-- style="font-family:Georgia" -->
 <h3 align="center">I work with web application, machine learning and data science 👋,</h3>
 
-- 🔭 I’m working on **Django, Data Science, Machine learning, Rasa deep learning NLP bots and web development in python**
+- 🔭 I’m working on **Django, Data Science, Machine learning and web development in python**
 
 - 🌱 I’m currently focused on **deep learning, data besides web application development**
 
