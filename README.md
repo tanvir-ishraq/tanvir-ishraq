@@ -4,11 +4,11 @@
 
 - 🔭 I’m working on **Django, Data Science, Machine learning and web development in python**
 
-- 🌱 I’m currently focused on **deep learning, data besides web application development**
+- 🌱 Currently focused on **deep learning, data analysis besides web application development**
 
-- 💬 You can ask me about **machine learning, data science, python, SQL, JS Rasa NLP any day and python web frameworks**
+- 💬 Feel free to ask me about **machine learning, data science, python, SQL, JS Rasa NLP any day and python web frameworks**
 
-- ⚡ Fun fact : **I like logic, analysis and also art :)**
+- ⚡ Fun fact : **I enojoy logic, analysis and also art :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/tanvir-ishraq-khan/
