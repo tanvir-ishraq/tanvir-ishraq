@@ -8,7 +8,7 @@
 
 - 💬 Feel free to ask me about **flask, machine learning, data science, python, SQL, JS, Rasa NLP any day and python web frameworks**
 
-- ⚡ Fun fact : **I enojoy logic, analysis and also art :)**
+- ⚡ Fun fact : **I enjoy logic, analysis and also art :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/tanvir-ishraq-khan/
