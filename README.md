@@ -6,7 +6,7 @@
 
 - 🌱 Currently focused on **deep learning, data analysis besides web application development**
 
-- 💬 Feel free to ask me about **machine learning, data science, python, SQL, JS Rasa NLP any day and python web frameworks**
+- 💬 Feel free to ask me about **flask, machine learning, data science, python, SQL, JS, Rasa NLP any day and python web frameworks**
 
 - ⚡ Fun fact : **I enojoy logic, analysis and also art :)**
 
