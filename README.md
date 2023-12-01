@@ -33,7 +33,7 @@
 * [TextThema NLP (themes Recommender System)](https://github.com/tanvir-ishraq/TextThema-Multi-Classifier)
 * [Business Predictions Project & analysis](https://github.com/tanvir-ishraq/business-predictions-project-and-analysis)
 * [A.R.M.O.R -  ML Armament Models Recognizer](https://github.com/tanvir-ishraq/A.R.M.O.R-Armament-Models-Recognizer)
-* [LoyaltyForecaster- - Predictive-Model-project](https://github.com/tanvir-ishraq/LoyaltyForecaster--Predictive-Model-project)
+* [LoyaltyForecaster - Predictive-Model-project](https://github.com/tanvir-ishraq/LoyaltyForecaster--Predictive-Model-project)
 
 <br>
 
@@ -43,9 +43,9 @@
 
 <br>
 
-<div>
+
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-ishraq&show_icons=true&locale=en&layout=compact" alt="tanvir-ishraq" /></p>
-</div>
+
 
 
 
