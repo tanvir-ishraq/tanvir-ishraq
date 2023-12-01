@@ -27,7 +27,7 @@
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <br>
 
-### Project List: 
+### Projects Listing: 
 * [Astute Startups Insighter - DS project](https://github.com/tanvir-ishraq/Astute-Startups-Insighter-ASI-Data-Science)
 * [HealifyAI - ML based Healthcare System ](https://github.com/tanvir-ishraq/HealifyAI--LLM-based-Healthcare-System) 
 * [TextThema NLP (themes Recommender System)](https://github.com/tanvir-ishraq/TextThema-Multi-Classifier)
