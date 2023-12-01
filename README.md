@@ -8,10 +8,6 @@
 
 - ⚡ Fun fact : **I enjoy logic, analysis and also art :)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> https://www.linkedin.com/in/tanvir-ishraq-khan/
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -29,11 +25,31 @@
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-ishraq&show_icons=true&locale=en&layout=compact" alt="tanvir-ishraq" /></p>
-
+<br>
 
 ### Project List: 
+* [Astute Startups Insighter - DS project](https://github.com/tanvir-ishraq/Astute-Startups-Insighter-ASI-Data-Science)
+* [HealifyAI - ML based Healthcare System ](https://github.com/tanvir-ishraq/HealifyAI--LLM-based-Healthcare-System) 
+* [TextThema NLP (themes Recommender System)](https://github.com/tanvir-ishraq/TextThema-Multi-Classifier)
+* [Business Predictions Project & analysis](https://github.com/tanvir-ishraq/business-predictions-project-and-analysis)
+* [A.R.M.O.R -  ML Armament Models Recognizer](https://github.com/tanvir-ishraq/A.R.M.O.R-Armament-Models-Recognizer)
+* [LoyaltyForecaster- - Predictive-Model-project](https://github.com/tanvir-ishraq/LoyaltyForecaster--Predictive-Model-project)
+
+<br>
+
+**Connect with my LinkedIn:** https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
+**Email to Me:** tanvir.ishraq.cse@gmail.com
+
+
+<br>
+
+<div>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-ishraq&show_icons=true&locale=en&layout=compact" alt="tanvir-ishraq" /></p>
+</div>
+
+
+
+
 
 <!--
 **tanvir-ishraq/tanvir-ishraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on  GitHub profile.
