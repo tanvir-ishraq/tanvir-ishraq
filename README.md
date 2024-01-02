@@ -1,10 +1,8 @@
 <h2 align="center">Hello there :) I'm Tanvir Ishraq Khan</h2>
  <!-- style="font-family:Georgia" -->
-<h3 align="center">I work with web application || machine learning || data science 👋,</h3>
+<h3 align="center">I work with web application || machine learning || data science 👋</h3>
 
 - 🌱 I’m working and currently focused on **deep learning, data analysis besides web application development**
-
-- 💬 Feel free to ask me about **machine learning, data science, python, SQL, flask, django, JS, Rasa NLP any day**
 
 - ⚡ Fun fact : **I enjoy logic, analysis and also art :)**
 
@@ -54,8 +52,6 @@
 
 
 <!--
-**tanvir-ishraq/tanvir-ishraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on  GitHub profile.
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
