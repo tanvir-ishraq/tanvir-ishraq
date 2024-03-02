@@ -4,7 +4,7 @@
 
 - 🌱 I’m working and currently focused on **deep learning, data analysis besides web application development**
 
-- ⚡ Fun fact : **I enjoy logic, analysis and also art :)**
+- ⚡ Other facts : **I enjoy logic, analysis and also art :)**
 
 #### Languages and Tools:
 <p align="left"> 
