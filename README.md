@@ -35,7 +35,7 @@
 * [A.R.M.O.R -  ML Armament Models Recognizer](https://github.com/tanvir-ishraq/A.R.M.O.R-Armament-Models-Recognizer)
 * [LoyaltyForecaster - Predictive-Model-project](https://github.com/tanvir-ishraq/LoyaltyForecaster--Predictive-Model-project)
 
-### My Certifications:
+### Visit all my Certifications:
 https://www.linkedin.com/in/tanvir-ishraq-khan/
 
 <br> <br>
