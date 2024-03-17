@@ -2,7 +2,7 @@
  <!-- style="font-family:Georgia" -->
 <h3 align="center">I work with web application || machine learning || data science 👋</h3>
 
-- 🌱 I’m working and currently focused on **deep learning, data analysis besides web application development**
+- 🌱 I’m currently focused on **deep learning, data analysis besides web application development**, besides working in a USA healthcare company.
 
 - ⚡ Other facts : **I enjoy logic, analysis and also art :)**
 
@@ -35,7 +35,10 @@
 * [A.R.M.O.R -  ML Armament Models Recognizer](https://github.com/tanvir-ishraq/A.R.M.O.R-Armament-Models-Recognizer)
 * [LoyaltyForecaster - Predictive-Model-project](https://github.com/tanvir-ishraq/LoyaltyForecaster--Predictive-Model-project)
 
-<br>
+### My Certifications:
+https://www.linkedin.com/in/tanvir-ishraq-khan/
+
+<br> <br>
 
 **Connect with my LinkedIn:** https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
 **Email to Me:** tanvir.ishraq.cse@gmail.com
