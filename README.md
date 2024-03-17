@@ -40,7 +40,8 @@ https://www.linkedin.com/in/tanvir-ishraq-khan/
 
 <br> <br>
 
-**Connect with my LinkedIn:** https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
+### My Contacts:
+**LinkedIn:** https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
 **Email to Me:** tanvir.ishraq.cse@gmail.com
 
 
