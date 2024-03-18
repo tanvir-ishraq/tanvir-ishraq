@@ -36,17 +36,14 @@
 * [LoyaltyForecaster - Predictive-Model-project](https://github.com/tanvir-ishraq/LoyaltyForecaster--Predictive-Model-project)
 
 ### Visit all my Certifications:
-https://www.linkedin.com/in/tanvir-ishraq-khan/
+https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
 
-<br> <br>
-
-### My Contacts:
+### My contacts 📝:
 **LinkedIn:** https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
 **Email to Me:** tanvir.ishraq.cse@gmail.com
 
 
-<br>
-
+<br> <br>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-ishraq&show_icons=true&locale=en&layout=compact" alt="tanvir-ishraq" /></p>
 
