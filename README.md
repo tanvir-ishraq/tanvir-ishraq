@@ -2,7 +2,7 @@
  <!-- style="font-family:Georgia" -->
 <h3 align="center">I work with web application || machine learning || data science 👋</h3>
 
-- 🌱 I’m currently focused on **deep learning, data analysis besides web application development**, besides working in an US healthcare company.
+- 🌱 I’m currently focused on **deep learning, data analysis besides web application development**, Along with working in an US healthcare company.
 
 - ⚡ Other facts : **I enjoy logic, analysis and also art :)**
 
