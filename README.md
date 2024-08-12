@@ -1,6 +1,6 @@
 <h2 align="center">Hello there 👋 I'm Tanvir Ishraq Khan</h2>
  <!-- style="font-family:Georgia" -->
-<h3 align="center">I work with web application || machine learning || data science </h3>
+<h3 align="center">I work with machine learning || web app deployment || data science </h3>
 
 - 🌱 I’m currently focused on **deep learning, data analysis besides web application development**, Along with working in an US healthcare company.
 
