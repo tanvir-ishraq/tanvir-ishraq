@@ -43,10 +43,10 @@
 * [A.R.M.O.R -  ML Armament Models Recognizer](https://github.com/tanvir-ishraq/A.R.M.O.R-Armament-Models-Recognizer)
 * [LoyaltyForecaster - Predictive-Model-project](https://github.com/tanvir-ishraq/LoyaltyForecaster--Predictive-Model-project)
 
-### Certifications Listing:
+### ⭐ Certifications Listing:
 https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
 
-### My contacts 📝:
+### 📝 My contacts :
 **LinkedIn:** https://www.linkedin.com/in/tanvir-ishraq-khan/ <br>
 **Official Email:** tanvir.ishraq.cse@gmail.com
 
